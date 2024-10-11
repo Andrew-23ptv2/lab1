@@ -1,0 +1,3 @@
+/home/stud/lab1/lab1/lab1/main.cpp
+/home/stud/lab1/lab1/lab1/modAlphaCipher.pp
+/home/stud/lab1/lab1/lab1/modAlphaCipher.h
